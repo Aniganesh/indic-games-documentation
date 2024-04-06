@@ -3,3 +3,4 @@ This repo contains all kinds of documentation on stuff that I learn while buildi
 
 Docs index:
 1. [Infra](https://github.com/Aniganesh/indic-games-documentation/blob/master/infra/Readme.md)
+2. [Tech stack](https://github.com/Aniganesh/indic-games-documentation/blob/master/tech-stack/Readme.md)
